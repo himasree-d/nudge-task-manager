@@ -44,7 +44,7 @@ Nudge lets you create, view, edit, and delete tasks — each with a title, descr
 ## Getting started
 
 ```bash
-git clone <this-repo-url>
+git clone https://github.com/himasree-d/nudge-task-manager
 cd task-manager
 
 composer install
